@@ -1,2 +1,4 @@
 # Javaonlineexamsystem
-A web-based Online Exam System with an integrated Question Bank Generator. This project allows admins to create, manage, and schedule exams easily, while students can take tests and receive results instantly.
+This project is a Java Online Exam System featuring a built-in question bank generator and a user-friendly Swing-based GUI. Users can add, edit, and manage questions, generate randomized exams, take tests with timers, and view results instantly. The system supports multiple question formats, auto-evaluation, and secure attempt management.
+
+Developed in Java (JDK) using Swing UI components and Visual Studio Code as the IDE
